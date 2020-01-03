@@ -1,2 +1,2 @@
 # Gitpractice
-First Git Practice
+First Git Practice after learning some basics 
